@@ -17,8 +17,8 @@ Aprender engenharia de dados na prática (terminal, Git, SQL com PostgreSQL, Pyt
 
 | Semana | Data | Tema | Anotações | Laboratório | Status |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 04/11 | Workshop 1: ciclo de vida do dado; Linux e terminal (Bash) | `anotacoes/semana-01/` | `labs/semana-01-bash/` | Pendente |
-| 1 | 05/11 | Workshop 2: Git e GitHub | `anotacoes/semana-01/` | `labs/semana-01-git/` | Pendente |
+| 1 | 04/11 | Workshop 1: ciclo de vida do dado; Linux e terminal (Bash) | `anotacoes/semana-01/` | `labs/semana-01-bash/` | Feito |
+| 1 | 05/11 | Workshop 2: Git e GitHub | `anotacoes/semana-01/` | `labs/semana-01-git/` | Feito |
 | 2 | 10/11 | Workshop 3: modelo relacional e SQL com PostgreSQL | `anotacoes/semana-02/` | `labs/semana-02-sql/` | Pendente |
 | 2 | 12/11 | Workshop 4: fluxo de Pull Request, testes de consulta e decisões com IA | `anotacoes/semana-02/` | `labs/semana-02-sql/` | Pendente |
 | 3 | 17/11 | Workshop 5: Python aplicado a dados | `anotacoes/semana-03/` | `labs/semana-03-python/` | Pendente |
